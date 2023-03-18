@@ -1,4 +1,4 @@
-# PocketBaseUML
+[# PocketBaseUML
 
 ![Publish NPM & deploy docs workflow](https://github.com/pocketbase-uml/pocketbase-uml.github.io/actions/workflows/publish-and-deploy.yml/badge.svg)  
 [![License][license-image]][license-url]
@@ -50,4 +50,4 @@ The [MIT License](https://github.com/pocketbase-uml/pocketbase-uml.github.io/blo
 [last-commit-image]: https://img.shields.io/github/last-commit/pocketbase-uml/pocketbase-uml.github.io?style=flat-square
 [language-image]: https://img.shields.io/github/languages/top/pocketbase-uml/pocketbase-uml.github.io?style=flat-square
 [repo-url]: https://github.com/pocketbase-uml/pocketbase-uml.github.io
-[license-url]: LICENSE
+[license-url]: https://github.com/pocketbase-uml/pocketbase-uml.github.io/blob/master/LICENSE
