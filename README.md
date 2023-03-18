@@ -1,8 +1,10 @@
-[# PocketBaseUML
+# PocketBaseUML
 
 ![Publish NPM & deploy docs workflow](https://github.com/pocketbase-uml/pocketbase-uml.github.io/actions/workflows/publish-and-deploy.yml/badge.svg)  
 [![License][license-image]][license-url]
+[![NPM version][npm-image]][npm-url]
 [![Last commit][last-commit-image]][repo-url]
+[![Downloads][downloads-image]][npm-url]
 [![Language][language-image]][repo-url]  
 
 A free, open-source web application that generates UML diagrams from PocketBase databases.
@@ -27,7 +29,7 @@ If you find this package useful, please consider ❤️ [sponsoring my work](htt
 
 ## Other means of support
 
-If you find this package useful, please 🙏 star the repository, 💕 [tweet about it](http://twitter.com/share?text=PocketBaseUML%3A%20a%20free%2C%20open-source%20UML%20diagram%20generator%20for%20PocketBase&url=https%3A%2F%2Fgithub.com%2Fpocketbase-uml%2Fpocketbase-uml.github.io&hashtags=pocketbase%2Cuml%2Cdiagramming&via=icflorescu), 👍[endorse me on LinkedIn](https://www.linkedin.com/in/icflorescu) or consider hiring my services.
+If you find this package useful, please 🙏 star the repository, 💕 [tweet about it](http://twitter.com/share?text=PocketBaseUML%3A%20a%20free%2C%20open-source%20UML%20diagram%20generator%20for%20PocketBase&url=https%3A%2F%2Fgithub.com%2Fpocketbase-uml%2Fpocketbase-uml.github.io&hashtags=pocketbase%2Cuml%2Cdiagramming&via=icflorescu), 👍 [endorse me on LinkedIn](https://www.linkedin.com/in/icflorescu) or consider hiring my services.
 
 The more stars this repository gets, the more visibility it gains among the PocketBase users community. The more
 users it gets, the more chances that some of those users will become active code contributors willing to put
@@ -47,7 +49,10 @@ Mentioning “PocketBaseUML” in your text would help me prioritize your messag
 The [MIT License](https://github.com/pocketbase-uml/pocketbase-uml.github.io/blob/master/LICENSE).
 
 [license-image]: http://img.shields.io/npm/l/pocketbase-uml.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/pocketbase-uml.svg?style=flat-square
 [last-commit-image]: https://img.shields.io/github/last-commit/pocketbase-uml/pocketbase-uml.github.io?style=flat-square
 [language-image]: https://img.shields.io/github/languages/top/pocketbase-uml/pocketbase-uml.github.io?style=flat-square
+[downloads-image]: http://img.shields.io/npm/dm/pocketbase-uml.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/pocketbase-uml
 [repo-url]: https://github.com/pocketbase-uml/pocketbase-uml.github.io
 [license-url]: https://github.com/pocketbase-uml/pocketbase-uml.github.io/blob/master/LICENSE
