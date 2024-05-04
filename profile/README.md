@@ -1,6 +1,6 @@
 # PocketBaseUML
 
-![Publish NPM & deploy docs workflow](https://github.com/pocketbase-uml/pocketbase-uml.github.io/actions/workflows/publish-and-deploy.yml/badge.svg)  
+![Publish NPM & deploy docs workflow](https://github.com/pocketbase-uml/pocketbase-uml.github.io/actions/workflows/pages.yml/badge.svg)  
 [![License][license-image]][license-url]
 [![NPM version][npm-image]][npm-url]
 [![Last commit][last-commit-image]][repo-url]
